@@ -1,0 +1,21 @@
+h1, h2{
+  color: #0433ff;
+  background-color: #00fdff;
+  font-family:Arial;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  }
+p{
+  color: #0433ff;
+  background-color: #00fdff;
+  font-family:Arial;
+  text-align: center;
+}
+ body {
+            background-color: lightblue;
+        }
+.shape-rectangle {
+  width: 150px;
+  height: 100px;
+  background-color: #3498db;
+}
