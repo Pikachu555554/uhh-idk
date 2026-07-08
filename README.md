@@ -1,2 +1,2 @@
-# uhh-idk
-idk
+# My Project Hub
+This is my project hub
